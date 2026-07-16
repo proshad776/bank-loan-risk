@@ -1,2 +1,1 @@
-# bank-loan-risk
-# Bank Loan Risk Analytics  An interactive Power BI dashboard (`.pbix`) built to track portfolio credit health and evaluate banking customer risk.  * **Risk Metrics:** Spot high-risk profiles and default trends. * **Customer Data:** Segment borrower demographics. * **Stack:** Power BI, DAX, Power Query.  Clone to explore!
+Interactive Power BI dashboard analyzing 15K+ bank loan records totaling $226M. Features loan portfolio analysis, borrower demographics, credit risk assessment, default trends, repayment performance, and KPI reporting using DAX, Power Query, and advanced data visualization to support data-driven lending decisions.
