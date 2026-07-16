@@ -1,1 +1,1 @@
-Interactive Power BI dashboard analyzing 15K+ bank loan records totaling $226M. Features loan portfolio analysis, borrower demographics, credit risk assessment, default trends, repayment performance, and KPI reporting using DAX, Power Query, and advanced data visualization to support data-driven lending decisions.
+
